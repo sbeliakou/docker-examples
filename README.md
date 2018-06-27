@@ -4,6 +4,7 @@
 - Multistage Build
 - Using ONBUILD Images
 - Building Images with Tools
+- Passing Arguments to the Build
 - Running Container / Stopping Container
 - Running Containers in Detached Mode 
 - Running Container in Host Network
