@@ -1,1 +1,41 @@
-# docker-examples
+# docker use patterns
+
+- Building Custom Image
+- Multistage Build
+- Using ONBUILD Images
+- Building Images with Tools
+- Running Container / Stopping Container
+- Running Containers in Detached Mode 
+- Running Container in Host Network
+- Running Container in None Network
+- Running Container in Priviliged Mode
+- Changing Workspace Directory
+- Changing Runtime User
+- Configuring Capabilities for Containers
+- Data Volumes
+- Data Container
+- Mounting Data from Host to Container
+- Commiting Changes
+- Exposing Ports
+- Linking Containers
+- Managing Restart Policy
+- Limiting Containers' Resources (cpu, memory)
+- Getting Logs from Container
+- Running Container with Syslog driver
+- Running Container with Journald driver
+- Execute commands in Container
+- Attaching the Container
+- Accessing the Docker Daemon Remotely
+- Configuring Docker Storage Drivers
+- Providing Environment Variables
+- Creating Custom Network (bridge, IPAM)
+- Runnig Containers in Custom Network
+- Running a Weave Network
+- Running a Flannel Overlay Network
+- Getting Details about Containers
+- Using cAdvisor
+- Using Collectd
+- Orchestrating a Stack with Docker-compose
+- Running Container with Systemd
+- Analyzing Docker Performance
+- Removing Images / Containers / Volumes / Networks
