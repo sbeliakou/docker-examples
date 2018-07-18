@@ -7,7 +7,7 @@
 5. Passing Arguments to the Build
 6. Running Container / Stopping Container
 7. Running Containers in Detached Mode 
-8. Running Container in Host Network
+8. [Running Container in Host Network](Use%20Patterns/8.%20Running%20Container%20in%20Host%20Network)
 9. Running Container in None Network
 10. Running Container in Priviliged Mode
 11. Changing Workspace Directory
